@@ -29,4 +29,4 @@ Sl. No. Apparatus Specification Quantity
 ## Output Tabulation:
 
 ## Result:  
-
+Thus Kirchoffs Voltage Law and Current Law are verified theoretically and practically.
